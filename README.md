@@ -22,6 +22,7 @@ Feel free to explore, learn, and provide feedback! I encourage discussions, ques
 1. **Chapters:** The main folders are organized by the chapters or sections of the book.
 2. **Code:** Look for code snippets and examples in each folder.
 3. **Projects:** Check out the projects folder for hands-on applications and practical exercises.
+4. **Presentations** Check out the presentations files to view the presentations created by Anmol Yaseen, having dtailed notes of the topics studied in the book.
 
 ## Daily Updates
 
